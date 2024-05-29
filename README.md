@@ -11,6 +11,12 @@ Microsoft Certified: Azure Security Engineer Associate exam.
 
 Mircosoft Certified: Azure Fundamentals
 
+## AWS-CLF-02
+
+AWS Cloud Practioner 
+
+
 I hope they help!
+
 
 Happy revising!
