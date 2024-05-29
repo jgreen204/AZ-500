@@ -1,5 +1,15 @@
-# AZ-500
-These notes are for anyone who is thinking of taking the AZ-500 Microsoft Certified: Azure Security Engineer Associate exam.
+# Cloud Revision
+These notes are for anyone who is thinking of upskilling within the cloud.
+
+Please take a look through my revsion notes originally taken using A Cloud Guru and Craft for note taking.
+
+## AZ-500_Notes 
+
+Microsoft Certified: Azure Security Engineer Associate exam.
+
+## AZ-900_Notes
+
+Mircosoft Certified: Azure Fundamentals
 
 I hope they help!
 
